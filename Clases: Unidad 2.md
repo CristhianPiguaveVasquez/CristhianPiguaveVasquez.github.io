@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Temas de Clase Unidad 1 / Unidad 2
+title: Temas de Clase Unidad 2
 ---
 
 ### Unidad #2.
