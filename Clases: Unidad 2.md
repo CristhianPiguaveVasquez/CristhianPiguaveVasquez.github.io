@@ -25,7 +25,7 @@ Ingeniería del software
 
 Los proyectos software tiene características específicas que los hacen diferentes de otros proyectos de ingeniería. La ingeniería del software es la rama de la ingeniería crea aplicaciones de software usando tecnologías y prácticas de la ciencia de la campos de computación, manejos de proyectos, ingeniería, en ámbito de aplicación entre otro campos. El software se desarrolla o se construye más no sé fabrica. Ambas actividades se dirigen a la construcción de un producto, pero los métodos son diferentes.
 
-###Regreso  a la paguina.
+
 
 
 
